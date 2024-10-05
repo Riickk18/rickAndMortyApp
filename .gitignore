@@ -1,6 +1,11 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
 ## User settings
 xcuserdata/
@@ -60,3 +65,5 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+
